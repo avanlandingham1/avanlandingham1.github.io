@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-presented-my-conference-paper-electrified-rotorcraft-drivetrain-concepts-for-enhanced-vehicle-peroformance-at-the-vertical-flight-society-s-81st-annual-forum-amp-amp-technology-display-in-virginia-beach-va",
+          title: 'I presented my conference paper “Electrified Rotorcraft Drivetrain Concepts for Enhanced Vehicle Peroformance”...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-presented-our-paper-subscale-emulation-of-full-scale-hybrid-electric-aircraft-powertrains-at-the-2025-ieee-transportation-electrification-conference-amp-amp-expo-electric-aircraft-techologies-symposium-in-anaheim-ca",
+          title: 'I presented our paper “Subscale Emulation of Full-Scale Hybrid Electric Aircraft Powertrains” at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-presented-my-work-and-vision-for-the-penn-state-powertrain-emulation-testbed-at-the-penn-state-aerospace-engineering-department-seminar",
+          title: 'I presented my work and vision for the Penn State Powertrain Emulation Testbed...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
