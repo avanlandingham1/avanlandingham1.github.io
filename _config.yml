@@ -7,13 +7,12 @@ first_name: Aaron
 middle_name: 
 last_name: VanLandingham
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach out via LinkedIn or email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -86,18 +85,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Aaron VanLandingham # blog_name will be displayed in your blog page
-blog_description: Engineering Portfolio
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+# blog_name: Aaron VanLandingham # blog_name will be displayed in your blog page
+# blog_description: Engineering Portfolio
+# permalink: /blog/:year/:title/
+# lsi: false # produce an index for related posts
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -196,25 +195,25 @@ keep_files:
   - CNAME
   - .nojekyll
 
-# Plug-ins
-plugins:
-  - jekyll-archives-v2
-  - jekyll-email-protect
-  - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-tabs
-  - jekyll-terser
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
+# # Plug-ins -- Commented out after removing blog
+# plugins:
+#   - jekyll-archives-v2
+#   - jekyll-email-protect
+#   - jekyll-feed
+#   - jekyll-get-json
+#   - jekyll-imagemagick
+#   - jekyll-jupyter-notebook
+#   - jekyll-link-attributes
+#   - jekyll-minifier
+#   - jekyll-paginate-v2
+#   - jekyll-regex-replace
+#   - jekyll/scholar
+#   - jekyll-sitemap
+#   - jekyll-tabs
+#   - jekyll-terser
+#   - jekyll-toc
+#   - jekyll-twitter-plugin
+#   - jemoji
 
 # Sitemap settings
 defaults:
@@ -264,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [VanLandingham]
+  first_name: [Aaron]
 
   style: apa
   locale: en
