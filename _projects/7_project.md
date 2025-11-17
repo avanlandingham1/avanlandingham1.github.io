@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Out-of-Wind-Tunnel Dynamic Propeller Testing
-description: Senior Design Project
+title: project 7
+description: with background image
 img: assets/img/4.jpg
-importance: 2
-category: USC
+importance: 1
+category: work
 related_publications: true
 ---
 

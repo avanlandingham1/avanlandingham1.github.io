@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: Collection of projects I've worked on as a student, researcher, and professional
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [Penn State, Boeing, USC]
+display_categories: [work, fun]
 horizontal: false
 ---
 

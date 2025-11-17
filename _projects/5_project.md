@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Proprietary Projects
+title: project 5
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 2
-category: Boeing
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

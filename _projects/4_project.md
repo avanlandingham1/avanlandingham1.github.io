@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Electric Aircraft Design Tool
+title: project 4
 description: another without an image
-img: assets/img/1.jpg
-importance: 1
-category: Boeing
+img:
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

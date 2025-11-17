@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 2017 Design, Build, Fly Competition
-description: 2017 AIAA Design, Build, Fly Competition
-img: assets/img/1.jpg
-importance: 1
-category: USC
+title: project 6
+description: a project with no image
+img:
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
