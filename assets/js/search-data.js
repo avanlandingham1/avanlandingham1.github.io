@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Projects I&#39;ve worked on as a student, researcher, and professional.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -51,51 +51,41 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-the-paper-subscale-emulation-of-full-scale-hybrid-electric-aircraft-powertrains-at-the-2025-ieee-aiaa-transportation-electrification-conference-and-electric-aircraft-technologies-symposium-itec-eats-in-anaheim-ca",
           title: 'I presented the paper “Subscale Emulation of Full-Scale Hybrid Electric Aircraft Powertrains” at...',
           description: "",
-          section: "News",},{id: "projects-rotorcraft-design-optimization",
-          title: 'Rotorcraft Design Optimization',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-subscale-powertrain-testbed",
-          title: 'Subscale Powertrain Testbed',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-hybrid-energy-management-controller-development",
-          title: 'Hybrid Energy Management Controller Development',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-electric-aircraft-tool-development",
+          section: "News",},{id: "projects-electric-aircraft-tool-development",
           title: 'Electric Aircraft Tool Development',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
+              window.location.href = "/projects/boeing_east0.html";
             },},{id: "projects-proprietary-projects",
           title: 'Proprietary Projects',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
+              window.location.href = "/projects/boeing_projects.html";
+            },},{id: "projects-hybrid-energy-management-controller-development",
+          title: 'Hybrid Energy Management Controller Development',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/psu_controls.html";
+            },},{id: "projects-rotorcraft-design-optimization",
+          title: 'Rotorcraft Design Optimization',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/psu_optimization.html";
+            },},{id: "projects-subscale-powertrain-testbed",
+          title: 'Subscale Powertrain Testbed',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/psu_testbed.html";
             },},{id: "projects-2017-design-build-fly",
           title: '2017 Design, Build, Fly',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
+              window.location.href = "/projects/usc_dbf.html";
             },},{id: "projects-out-of-wind-tunnel-dynamic-propeller-testing",
           title: 'Out-of-Wind-Tunnel Dynamic Propeller Testing',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
+              window.location.href = "/projects/usc_senior_design.html";
             },},{
         id: 'social-email',
         title: 'email',
