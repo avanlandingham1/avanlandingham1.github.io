@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: 2017 Design, Build, Fly
 description: a project with no image
-img:
-importance: 4
-category: fun
+img: assets/img/4.jpg
+importance: 1
+category: USC
 ---
 
 Every project has a beautiful feature showcase page.

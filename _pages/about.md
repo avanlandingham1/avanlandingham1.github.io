@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Aerospace Engineering PhD Candidate @ Penn State | Previous: USC, Boeing"
 

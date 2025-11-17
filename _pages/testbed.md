@@ -1,6 +1,6 @@
 ---
 layout: page
-title: testbed
+title: Testbed
 permalink: /testbed/
 description: Overview of motivation, components, and FAQ
 nav: true
