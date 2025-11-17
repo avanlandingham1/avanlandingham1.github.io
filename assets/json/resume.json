@@ -1,190 +1,171 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aaron VanLandingham",
+    "label": "PhD Candidate at Penn State University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "a.vanlandingham01@gmail.com",
+    "url": "https://avanlandingham1.github.io/",
+    "summary": "PhD candidate developing hybrid-electric propulsion systems for next-generation aircraft. Research expertise at the intersection of multidisciplinary design optimization, control system design, and hardware testing. Expected graduation SPring 2026",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "437 ECoRE Building",
+      "postalCode": "PA 16802",
+      "city": "University Park",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "aavanlandingham",
+        "url": "https://www.linkedin.com/in/aavanlandingham/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "The Pennsylvania State University",
+      "position": "Graduate Research Assistant",
+      "startDate": "2021-08",
+      "summary": "Conceptual design and development of hybrid-electric rotorcraft powertrain concepts.",
+      "highlights": ["Vehicle design optimization of hybrid-electric rotorcraft", "Design and fabrication of powertrain emulation facility for full-scale control system prototyping", "Hybrid energy management control system development and implementation in subscale hardware"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "The Boeing Company",
+      "position": "Advanced Concepts - Configuration Design Engineer",
+      "startDate": "2017-08",
+      "endDate": "2021-06",
+      "summary": "Support development of hybrid-electric commercial aircraft from concept to flight for new and existing markets",
+      "highlights": ["Led development of proprietary electric aircraft sizing tool (MATLAB)"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "url": "https://ame.usc.edu/",
+      "area": "Aerospace Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-08",
+      "endDate": "2017-05"
+    },
+    {
+      "institution": "The Pennsylvania State University",
+      "location": "University Park, PA",
+      "url": "https://www.aero.psu.edu/",
+      "area": "Aerospace Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2021-08",
+      "endDate": "2024-05"
+    },
+    {
+      "institution": "The Pennsylvania State University",
+      "location": "University Park, PA",
+      "url": "https://www.aero.psu.edu/",
+      "area": "Aerospace Engineering",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2024-05"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Eagle Scout",
+      "awarder": "Boy Scouts of America"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Subscale Emulation of Full-Scale Hybrid Electric Aircraft Powertrains",
+      "publisher": "2025 IEEE Transportation Electrification Conference + Electric Aircraft Technologies Symposium",
+      "releaseDate": "2025-06",
+      "url": "https://doi.org/10.1109/ITEC63604.2025.11098141",
+      "summary": "brief description"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Hybrid-Electric Powertrain Design for Enhanced Vehicle Performance",
+      "publisher": "Vertical Flight Society 81st Annual Forum",
+      "releaseDate": "2025-05",
+      "url": "https://doi.org/10.4050/F-0081-2025-369",
+      "summary": "brief description"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Optimization of Electrified, Variable Speed Drivetrain Concepts for Enhanced Vehicle Performance",
+      "publisher": "Vertical Flight Society 80th Annual Forum",
+      "releaseDate": "2024-05",
+      "url": "https://doi.org/10.4050/F-0080-2024-1315",
+      "summary": "brief description"
+    },
+    {
+      "name": "Environmental and Economic Impact of Transport Aircraft Using Sustainable Aviation Fuel or Liquid-Hydrogen as Alternative Fuels",
+      "publisher": "The Pennsylvania State University, MS Thesis",
+      "releaseDate": "2024-05",
+      "url": "https://etda.libraries.psu.edu/catalog/32384avv5448",
+      "summary": "brief description"
+    },
+    {
+      "name": "Conceptual Design Optimization of Liquid-Hydrogen-Fueled Transport Aircraft for Environmental and Economic Performance",
+      "publisher": "AIAA AVIATION 2023 Forum",
+      "releaseDate": "2023-06",
+      "url": "https://arc.aiaa.org/doi/abs/10.2514/6.2023-3228",
+      "summary": "brief description"
+    },
+    {
+      "name": "An Integrated Hybrid-Electric Airplane, Propulsion and Power Sizing Method",
+      "publisher": "AIAA SCITECH 2022 Forum",
+      "releaseDate": "2022-01",
+      "url": "https://doi.org/10.2514/6.2022-1558",
+      "summary": "brief description"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "MATLAB",
+        "Simulink"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Data Acquistion",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "NI Labview",
+        "Speedgoat FPGA Digital and Analog IO",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "CAD",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Solidworks",
+        "Siemens NX",
+        "OpenVSP"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "David K. Hall",
+      "title": "Assistant Professor",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "company": "The Pennsylvania State University",
+      "email": "david.k.hall@psu.edu",
+      "phone": "+1 (814) 863 0043",
+      "relationship": "PhD advisor"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Edward C. Smith",
+      "title": "Distinguished Professor",
+      "icon": "fa-solid fa-laptop",
+      "company": "The Pennsylvania State University",
+      "email": "ecs5@psu.edu",
+      "phone": "+1 (814) 863 0966",
+      "relationship": "PhD Committee - Project Manager"  
     }
   ],
   "projects": [
@@ -195,6 +176,39 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    },
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
+
   ]
 }
