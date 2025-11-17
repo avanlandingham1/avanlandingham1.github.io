@@ -1,8 +1,8 @@
 ---
 layout: post
-# title: VFS Forum 81 Presentation
-date: 2025-05-20 16:11:00-0400
-inline: false
+title: VFS Forum 81 Presentation
+date: 2024-05-09 16:11:00-0400
+inline: true
 related_posts: false
 ---
 
