@@ -2,7 +2,7 @@
 layout: page
 title: Out-of-Wind-Tunnel Dynamic Propeller Testing
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/car_test_stand.jpg
 importance: 1
 category: USC
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: 2017 Design, Build, Fly
 description: a project with no image
-img: assets/img/4.jpg
+img: assets/img/team_photo.jpg
 importance: 1
 category: USC
 ---
