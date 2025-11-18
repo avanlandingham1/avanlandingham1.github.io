@@ -3,7 +3,7 @@ layout: page
 title: LH2 Transport Aircraft
 description: Evaluating LH2 and SAF as alternative fuels for commercial aircraft
 img: assets/img/edited_aircraft_family_plan_white_background.svg
-importance: 4
+importance: 3
 category: Penn State
 related_publications: true
 ---
@@ -55,6 +55,6 @@ The sizing approaches required for realizing these benefits have important impli
     Left, engine downsizing benefit. Right, vairable rotor speed benefit. 
 </div>
 
-For more information, refer to our publications {% cite vanlandingham2025hybrid %} {% cite vanlandingham2024optimization %}. 
+For more information, refer to our publications {% cite vanlandingham2023conceptual %} {% cite vanlandingham2024environmental %}. 
 
 
