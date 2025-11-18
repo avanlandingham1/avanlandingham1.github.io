@@ -61,19 +61,19 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boeing_projects.html";
-            },},{id: "projects-hybrid-energy-management-controller-development",
-          title: 'Hybrid Energy Management Controller Development',
-          description: "a project that redirects to another website",
+            },},{id: "projects-lh2-transport-aircraft",
+          title: 'LH2 Transport Aircraft',
+          description: "Evaluating LH2 and SAF as alternative fuels for commercial aircraft",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/psu_controls.html";
+              window.location.href = "/projects/psu_lh2.html";
             },},{id: "projects-rotorcraft-design-optimization",
           title: 'Rotorcraft Design Optimization',
-          description: "with background image",
+          description: "Understanding where, when, and how to add electric power to benefit large rotorcraft",
           section: "Projects",handler: () => {
               window.location.href = "/projects/psu_optimization.html";
             },},{id: "projects-subscale-powertrain-testbed",
           title: 'Subscale Powertrain Testbed',
-          description: "a project with a background image and giscus comments",
+          description: "Emulating full-scale turbomachinery using electric machines to implement and evaluate predictive energy management control frameworks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/psu_testbed.html";
             },},{id: "projects-2017-design-build-fly",
