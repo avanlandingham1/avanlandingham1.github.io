@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rotorcraft Design Optimization
-description: Understanding where, when, and how to add electric power to benefit large rotorcraft
-img: assets/img/powertrain_2_white_background.svg
-importance: 1
+title: LH2 Transport Aircraft
+description: Evaluating LH2 and SAF as alternative fuels for commercial aircraft
+img: assets/img/edited_aircraft_family_plan_white_background.svg
+importance: 4
 category: Penn State
 related_publications: true
 ---

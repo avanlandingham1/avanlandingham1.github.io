@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Subscale Powertrain Testbed
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Emulating full-scale turbomachinery using electric machines to implement and evaluate predictive energy management control frameworks 
+img: assets/img/full_lab.jpg
 importance: 2
 category: Penn State
 giscus_comments: true
