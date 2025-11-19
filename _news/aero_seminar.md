@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work on the powertrain testbed at the Penn State Aerospace Department Seminar. The focus was our scaling and emulation approach as well as our vision for future devleopment and collaborations within the department. 
+I presented my work on the powertrain testbed at the Penn State Aerospace Engineering Department Seminar. The focus was our scaling and emulation approach as well as our vision for future devleopment and collaborations within the department. 
