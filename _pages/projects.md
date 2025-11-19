@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Projects
 permalink: /projects/
@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [Penn State, Boeing, USC]
 horizontal: false
----
+--- -->
 
 <!-- pages/projects.md -->
 <div class="projects">

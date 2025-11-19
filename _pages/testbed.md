@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Testbed
 permalink: /testbed/
@@ -7,8 +7,7 @@ nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
-
----
+--- -->
 
 This is an example post with image galleries.
 

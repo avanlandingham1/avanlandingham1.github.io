@@ -1,5 +1,5 @@
 "hall":
-  - firstname: ["David", "D.", "D. K.", "David Hall"]
+  - firstname: ["David", "David K.", "David K", "D.", "D. K.", "David Hall"]
     url: https://www.aero.psu.edu/department/directory-detail-g.aspx?q=dkh5498
 
 "smith":
@@ -9,4 +9,8 @@
 "hans":
   - firstname: ["Hans", "H.", "Hans DeSmidt"]
     url: https://tickle.utk.edu/mae/faculty/hans-desmidt/
+
+"pangborn":
+  - firstname: ["Herschel", "H. C.", "Herschel C."]
+    url: https://www.me.psu.edu/department/directory-detail-g.aspx?q=hxp5027
 
