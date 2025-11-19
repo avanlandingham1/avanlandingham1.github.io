@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
-          description: "Projects I&#39;ve worked on as a student, researcher, and professional.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-testbed",
-          title: "Testbed",
-          description: "Overview of motivation, components, and FAQ",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/testbed/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -42,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-presented-the-paper-optimization-of-electrified-variable-speed-drivetrain-concepts-for-enhanced-vehicle-performance-at-the-the-vertical-flight-society-s-80th-annual-forum-amp-amp-technology-display-in-montréal-québec-canada",
+            },},{id: "news-i-completed-my-ms-degree-read-my-thesis-environmental-and-economic-impact-of-transport-aircraft-using-sustainable-aviation-fuel-or-liquid-hydrogen-as-alternative-fuels",
+          title: 'I completed my MS degree. Read my thesis “Environmental and Economic Impact of...',
+          description: "",
+          section: "News",},{id: "news-i-presented-the-paper-optimization-of-electrified-variable-speed-drivetrain-concepts-for-enhanced-vehicle-performance-at-the-the-vertical-flight-society-s-80th-annual-forum-amp-amp-technology-display-in-montréal-québec-canada",
           title: 'I presented the paper “Optimization of Electrified, Variable Speed Drivetrain Concepts for Enhanced...',
           description: "",
           section: "News",},{id: "news-i-presented-the-paper-electrified-rotorcraft-drivetrain-concepts-for-enhanced-vehicle-performance-at-the-the-vertical-flight-society-s-81st-annual-forum-amp-amp-technology-display-in-virginia-beach-va",
@@ -50,6 +39,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-presented-the-paper-subscale-emulation-of-full-scale-hybrid-electric-aircraft-powertrains-at-the-2025-ieee-aiaa-transportation-electrification-conference-and-electric-aircraft-technologies-symposium-itec-eats-in-anaheim-ca",
           title: 'I presented the paper “Subscale Emulation of Full-Scale Hybrid Electric Aircraft Powertrains” at...',
+          description: "",
+          section: "News",},{id: "news-i-presented-my-work-on-the-powertrain-testbed-at-the-penn-state-aerospace-department-seminar-the-focus-was-our-scaling-and-emulation-approach-as-well-as-our-vision-for-future-devleopment-and-collaborations-within-the-department",
+          title: 'I presented my work on the powertrain testbed at the Penn State Aerospace...',
           description: "",
           section: "News",},{id: "projects-electric-aircraft-tool-development",
           title: 'Electric Aircraft Tool Development',
