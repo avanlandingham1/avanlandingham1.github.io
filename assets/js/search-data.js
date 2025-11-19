@@ -40,7 +40,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-the-paper-subscale-emulation-of-full-scale-hybrid-electric-aircraft-powertrains-at-the-2025-ieee-aiaa-transportation-electrification-conference-and-electric-aircraft-technologies-symposium-itec-eats-in-anaheim-ca",
           title: 'I presented the paper “Subscale Emulation of Full-Scale Hybrid Electric Aircraft Powertrains” at...',
           description: "",
-          section: "News",},{id: "news-i-presented-my-work-on-the-powertrain-testbed-at-the-penn-state-aerospace-department-seminar-the-focus-was-our-scaling-and-emulation-approach-as-well-as-our-vision-for-future-devleopment-and-collaborations-within-the-department",
+          section: "News",},{id: "news-i-presented-my-work-on-the-powertrain-testbed-at-the-penn-state-aerospace-engineering-department-seminar-the-focus-was-our-scaling-and-emulation-approach-as-well-as-our-vision-for-future-devleopment-and-collaborations-within-the-department",
           title: 'I presented my work on the powertrain testbed at the Penn State Aerospace...',
           description: "",
           section: "News",},{id: "projects-electric-aircraft-tool-development",
