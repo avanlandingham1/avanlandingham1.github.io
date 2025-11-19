@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Expected graduation Spring 2026. Add photo carousel. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently in my fifth year as a graduate student at Penn State with an expected graduation date of Spring 2026. My PhD thesis has focused on the design of hybrid-electric rotorcraft, with a multi-faceted approach that includes conceptual design optimization, predictive control frameworks, and hardware testing.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to returning to graduate school, I worked as a Configuration Design Engineer in the Boeing Commercial Aircraft Advanced Concepts team. While at Boeing, I supported a handful of projects evaluating hybrid-electric propulsion for emerging and existing commercial markets. Common threads throughout my graduate and professional work include conceptual aircraft design, multi-fidelity modeling of hybrid-electric propulsion systems, conceptual design tool development, and evaluation of new technologies for aircraft applications.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passionate about working from first principles, leveraging optimization and practical experience to gain meaningful insights in the design of complex aerospace systems. 
+
+Outside of work I enjoy playing disc golf, flyfishing, and spending time with friends and family. 
