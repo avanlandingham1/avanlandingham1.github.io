@@ -39,7 +39,7 @@ You can find write-ups of the competition at [Aerospace America](https://aerospa
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" title="team_photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/team.jpg" title="team_photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
