@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Subscale Powertrain Testbed
-description: Emulating full-scale turbomachinery using electric machines to implement and evaluate predictive energy management control frameworks 
+title: Powertrain Testbed
+description: Emulating full-scale turbomachinery to evaluate predictive energy management control frameworks 
 img: assets/img/full_lab.jpg
 importance: 2
 category: Penn State

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Out-of-Wind-Tunnel Dynamic Propeller Testing
-description: with background image
-img: assets/img/car_test_stand.jpg
+title: Dynamic Propeller Testing
+description: Low-cost out-of-wind-tunnel testing for RC aircraft 
+img: assets/img/car_iso_cropped.jpg
 importance: 1
 category: USC
 related_publications: true

@@ -16,7 +16,7 @@ Hybrid-electric propulsion requires integration of electric motors with complex 
 
 ## Approach
 
-This project leverages Geometric Programming using [GPkit](https://gpkit.readthedocs.io/en/latest/) to explore this large design space. Geometric programs (GPs) are convex in log spcae, and can be solved quickly using “off-the-shelf” solvers. The drivetrain, vehicle, and mission performance models are implemented as GPs and solved using a simultaneous analysis and design (SAND) approach. 
+This project leverages Geometric Programming using [GPkit](https://gpkit.readthedocs.io/en/latest/) to explore this large design space. Geometric programs (GPs) are convex in log space, and can be solved quickly using “off-the-shelf” solvers. The drivetrain, vehicle, and mission performance models are implemented as GPs and solved using a simultaneous analysis and design (SAND) approach. 
 
 Discrete hybrid-electric powertrain topologies are defined by combining gearbox and electric machine models such that the optimizer solves for the gear ratios, speeds, and electric machine torques that maximize mission performance. Using epicyclic gearboxes, electric machines can produce variable output speeds. 
 

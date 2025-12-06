@@ -1,80 +1,45 @@
 ---
 layout: page
 title: 2017 Design, Build, Fly
-description: a project with no image
-img: assets/img/team_photo.jpg
+description: First place among 95 international teams
+img: assets/img/flying.jpg
 importance: 1
 category: USC
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Competition
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The theme for the 2017 AIAA Design/Build/Fly Competition was a tube-launched UAV. The airplane had to fit inside of a tube and be hand-launched. Conversion from the stowed to flight configuration had to be completed prior to each flight. The mission score consisted of three missions with a team-deteremind number of hockey pucks. The written report score, mission score, tube size, tube weight, and aircraft weight factored into the total score. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Approach
+
+From score analysis the team determined that a small, lightweight aircraft carrying the minimum payload (three hockey pucks) should maximize overall score. A composite tube-and-wing configuration with a hinged spar and a v-tail was selected as the aircraft configuration.  
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/plane_iso_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tube.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Competition aircraft in flight configuration (left) and stowed configuration (right). 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
+Extensive flight testing was required to iteratively optimize the overall configuration. Hand-laucnhing the aircraft presented a complex design challenge. Higher wing-loading made the aircraft and tube smaller, but made launch repeatibility a challenge. 
+
+
+## Winnning Formula
+
+Our team finished in first place out of 95 international teams at the fly-off in Tucson, AZ. This came down to rigorous score analysis and extensive flight testing that allowed us to push the limits of our airraft. Emphasis on the technical analysis in the written-report and lightweight tube construction proved to be the deciders for the competition.  
+
+You can find write-ups of the competition at [Aerospace America](https://aerospaceamerica.aiaa.org/usc-overcomes-crash-to-win-aiaas-remote-aircraft-competition/) and [USC Today](https://today.usc.edu/advisers-faith-in-usc-aerodesign-team-pays-off-with-an-impressive-win/). 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" title="team_photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
