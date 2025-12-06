@@ -8,74 +8,35 @@ category: USC
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This was my senior design project at USC completed with [Jacob Iuele](https://www.linkedin.com/in/jacobiuele/) and [Addison Salzman](https://www.linkedin.com/in/addisonsalzman/) {% cite vanlandingham2016out %}. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Motivation
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Propeller performance varies as a function of airspeed. Ground testing with a thrust stand provides useful information about takeoff conditions, but little about cruise performance. Wind-tunnel cross testing requires large facilities that are prohibitively expensive for RC aircraft testing.
+
+The goal of this project was to design and build a vehicle-mounted thrust stand for dynamic testing
+of propellers that could replace traditional wind tunnel testing methods.
+
+## Approach
+
+An elevated thrust stand provided sufficient clearance for data collection. Airspeed was collected using a pitot tube and windvane to verify non-axial airspeed. Tests were conducted at the El Mirage Dry Lakebed in Adelanto, CA. 
+
+<div class="row  align-items-center justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/instrumentation_schematic.JPG" title="daq_schematic" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## Results
+
+The data collected showed acceptable repeatability and qualitatively matched trends expected from literature data for propellers larger than 9 inches in diameter. By reducing the measured performance of the propellers into characteristic coefficients, results were compared to equivalent wind tunnel tests performed by [Deters and Selig](https://m-selig.ae.illinois.edu/pubs/DetersAnandaSelig-2014-AIAA-2014-2151.pdf). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/prop_results.jpg" title="test_data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Plots of thrust coefficient (left) and power coefficient (right) vs advance ratio. Experimental data was collected with the car-mounted thrust stand. Theoretical data comes from the work of [Deters and Selig](https://m-selig.ae.illinois.edu/pubs/DetersAnandaSelig-2014-AIAA-2014-2151.pdf).
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

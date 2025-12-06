@@ -17,10 +17,10 @@ From score analysis the team determined that a small, lightweight aircraft carry
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plane_iso_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/plane_iso_2.jpg" title="flight_config" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tube.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tube.jpg" title="stowed_config" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
