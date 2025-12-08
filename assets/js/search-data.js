@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Projects I&#39;ve worked on as a student, researcher, and professional.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
@@ -45,12 +52,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-electric-aircraft-tool-development",
           title: 'Electric Aircraft Tool Development',
-          description: "another without an image",
+          description: "Modular propulsion architecture evalution",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boeing_east0.html";
             },},{id: "projects-proprietary-projects",
           title: 'Proprietary Projects',
-          description: "a project with a background image",
+          description: "Developing hybrid-electric commercial aircraft concepts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boeing_projects.html";
             },},{id: "projects-lh2-transport-aircraft",
@@ -63,19 +70,19 @@ ninja.data = [{
           description: "Understanding where, when, and how to add electric power to benefit large rotorcraft",
           section: "Projects",handler: () => {
               window.location.href = "/projects/psu_optimization.html";
-            },},{id: "projects-subscale-powertrain-testbed",
-          title: 'Subscale Powertrain Testbed',
-          description: "Emulating full-scale turbomachinery using electric machines to implement and evaluate predictive energy management control frameworks",
+            },},{id: "projects-powertrain-testbed",
+          title: 'Powertrain Testbed',
+          description: "Emulating full-scale turbomachinery to evaluate predictive energy management control frameworks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/psu_testbed.html";
             },},{id: "projects-2017-design-build-fly",
           title: '2017 Design, Build, Fly',
-          description: "a project with no image",
+          description: "First place among 95 international teams",
           section: "Projects",handler: () => {
               window.location.href = "/projects/usc_dbf.html";
-            },},{id: "projects-out-of-wind-tunnel-dynamic-propeller-testing",
-          title: 'Out-of-Wind-Tunnel Dynamic Propeller Testing',
-          description: "with background image",
+            },},{id: "projects-dynamic-propeller-testing",
+          title: 'Dynamic Propeller Testing',
+          description: "Low-cost out-of-wind-tunnel testing for RC aircraft",
           section: "Projects",handler: () => {
               window.location.href = "/projects/usc_senior_design.html";
             },},{
