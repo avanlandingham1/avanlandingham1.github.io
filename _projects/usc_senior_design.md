@@ -21,9 +21,9 @@ of propellers that could replace traditional wind tunnel testing methods.
 
 An elevated thrust stand provided sufficient clearance for data collection. Airspeed was collected using a pitot tube and windvane to verify non-axial airspeed. Tests were conducted at the El Mirage Dry Lakebed in Adelanto, CA. 
 
-<div class="row align-items-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/drive_by.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/5rGY29tWVBY" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
