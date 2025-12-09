@@ -30,6 +30,22 @@ From score analysis the team determined that a small, lightweight aircraft carry
 
 Extensive flight testing was required to iteratively optimize the overall configuration. Hand-laucnhing the aircraft presented a complex design challenge. Higher wing-loading made the aircraft and tube smaller, but made launch repeatibility a challenge. 
 
+ <!-- <div class="container-fluid p-0">
+  <div class="ratio ratio-2x1">
+    <video controls autoplay loop muted class="w-100">
+      <source src="assets/video/hand_launch.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div> -->
+
+<!-- <video style="width:100%" src="assets/video/hand_launch.mp4" controls=""></video> -->
+
+<div class="row align-items-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/hand_launch.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 
 ## Winnning Formula
 
