@@ -21,12 +21,11 @@ of propellers that could replace traditional wind tunnel testing methods.
 
 An elevated thrust stand provided sufficient clearance for data collection. Airspeed was collected using a pitot tube and windvane to verify non-axial airspeed. Tests were conducted at the El Mirage Dry Lakebed in Adelanto, CA. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/5rGY29tWVBY" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center align-items-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/drive_by.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-
 ## Results
 
 The data collected showed acceptable repeatability and qualitatively matched trends expected from literature data for propellers larger than 9 inches in diameter. By reducing the measured performance of the propellers into characteristic coefficients, results were compared to equivalent wind tunnel tests performed by [Deters and Selig](https://m-selig.ae.illinois.edu/pubs/DetersAnandaSelig-2014-AIAA-2014-2151.pdf). 
