@@ -12,14 +12,14 @@ This was my senior design project at USC completed with [Jacob Iuele](https://ww
 
 ## Motivation
 
-Propeller performance varies as a function of airspeed. Ground testing with a thrust stand provides useful information about takeoff conditions, but little about cruise performance. Wind-tunnel cross testing requires large facilities that are prohibitively expensive for RC aircraft testing.
+Propeller performance varies as a function of airspeed. Ground testing with a thrust stand provides useful information about takeoff conditions, but little about cruise performance. Wind-tunnel testing requires large facilities that are prohibitively expensive for RC aircraft testing.
 
 The goal of this project was to design and build a vehicle-mounted thrust stand for dynamic testing
 of propellers that could replace traditional wind tunnel testing methods.
 
 ## Approach
 
-An elevated thrust stand provided sufficient clearance for data collection. Airspeed was collected using a pitot tube and windvane to verify non-axial airspeed. Tests were conducted at the El Mirage Dry Lakebed in Adelanto, CA. 
+An elevated thrust stand [(RC Benchmark)](https://www.tytorobotics.com/pages/series-1580-1585) provided sufficient clearance for data collection. Airspeed was collected using a pitot tube and windvane to verify non-axial airspeed. Tests were conducted at the El Mirage Dry Lakebed in Adelanto, CA. 
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm-12 mt-3 mt-md-0">
