@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-testbed",
+          title: "Testbed",
+          description: "Emulating full-scale turbomachinery to evaluate predictive energy management control frameworks",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/testbed/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -60,6 +67,26 @@ ninja.data = [{
           description: "Developing hybrid-electric commercial aircraft concepts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boeing_projects.html";
+            },},{id: "projects-data-acquisition",
+          title: 'Data Acquisition',
+          description: "Motor generator pair assembly",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_acquisition.html";
+            },},{id: "projects-powertrain-digital-twins",
+          title: 'Powertrain Digital Twins',
+          description: "Motor generator pair assembly",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/digital_twin.html";
+            },},{id: "projects-mechanical-design",
+          title: 'Mechanical Design',
+          description: "Design, fabrication, and assembly of critical lab hardware",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical_design.html";
+            },},{id: "projects-pcb-design",
+          title: 'PCB Design',
+          description: "Cable Management",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pcb_design.html";
             },},{id: "projects-lh2-transport-aircraft",
           title: 'LH2 Transport Aircraft',
           description: "Evaluating LH2 and SAF as alternative fuels for commercial aircraft",
