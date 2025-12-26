@@ -22,9 +22,9 @@ Simulated models of full-scale components run in real-time on a Speedgoat target
 
 The lab currently includes three motor-generator pairs that are coupled in software to emulate various components within the powertrain. In the coming months, we will be expanding to include six total pairs that allow study of advanced hybrid-electric rotorcraft powertrains.
 
-<div class="row">
+<div class="row justify-content-sm-center align-items-center">
     <div class="col-sm mt-12 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/motor_demo.mp4" title="motor_speed_demo" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/motor_demo.mp4" title="motor_speed_demo" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
