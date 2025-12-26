@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: page
 title: 3D Printing
 description: Custom printing
 img: assets/img/pcb_design.jpg
 importance: 2
 category: Hardware
----
+--- -->
 
 
 ## Rectifier Cover
