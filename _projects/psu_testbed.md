@@ -22,7 +22,8 @@ The lab currently includes three motor-generator pairs that are coupled in softw
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm mt-12 mt-md-0">
-        {% include video.liquid path="assets/video/motor_demo.mp4" title="motor_speed_demo" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid 
+        path="assets/video/motor_demo.mp4" title="motor_speed_demo" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">

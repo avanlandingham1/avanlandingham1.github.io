@@ -52,7 +52,7 @@ The sizing approaches required for realizing these benefits have important impli
     </div>
 </div>
 <div class="caption">
-    Left, engine downsizing benefit. Right, vairable rotor speed benefit. 
+    Left, engine downsizing benefit. Right, variable rotor speed benefit. 
 </div>
 
 For more information, refer to our publications {% cite vanlandingham2025hybrid %} {% cite vanlandingham2024optimization %}. 

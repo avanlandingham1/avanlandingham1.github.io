@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently in my fifth year as a graduate student at Penn State with an expected graduation date of Spring 2026. My PhD research is focused on the design of hybrid-electric rotorcraft, with an interdisciplinary approach that includes conceptual design optimization, predictive control frameworks, and hardware testing.  
+I am a fifth year graduate student at Penn State with an expected graduation date of Spring 2026. My PhD research focuses on the design of hybrid-electric rotorcraft, with an interdisciplinary approach that includes conceptual design optimization, predictive control frameworks, and hardware testing.  
 
 Prior to graduate school, I worked as a Configuration Design Engineer in the Boeing Commercial Aircraft Advanced Concepts team. While at Boeing, I supported a handful of projects evaluating hybrid-electric propulsion for emerging and existing commercial markets. Common threads throughout my graduate and professional work include aircraft design, multi-fidelity modeling of hybrid-electric propulsion systems, conceptual design tool development, and evaluation of new technologies for aircraft applications.  
 
