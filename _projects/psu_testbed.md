@@ -18,7 +18,7 @@ Dynamic emulation using electric machines allows a 3 kW motor-generator pair to 
 
 Simulated models of full-scale components run in real-time on a Speedgoat target machine. The testbed hardware follows the scaled torque and speed references of the real-time models. Each shaft emulator state is fed back as measured states of the full-scale control system. 
 
-The lab currently includes three motor-generator pairs that are coupled in software to emulate various components within the powertrain. In the coming months, we will be expanding to include six total pairs that allow study of advanced hybrid-electric rotorcraft powertrains.
+The lab currently includes three pairs of motor-generators that are coupled in software to emulate various components within the powertrain. In the coming months, we will be expanding to include six total pairs that allow study of advanced hybrid-electric rotorcraft powertrains.
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm mt-12 mt-md-0">

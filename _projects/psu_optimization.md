@@ -10,13 +10,13 @@ related_publications: true
 
 ## Motivation
 
-Electrificaiton has been proposed as a techology that could improve rotorcraft performance. While signifcant effort has been devoted to evaluating urban air mobility concepts, this project seeks to explore the potential benefits of hybrid-electric propulsion for larger rotorcraft. 
+Electrification has been proposed as a technology that could improve rotorcraft performance. While significant effort has been devoted to evaluating urban air mobility concepts, this project seeks to explore the potential benefits of hybrid-electric propulsion for larger rotorcraft. 
  
 Hybrid-electric propulsion requires integration of electric motors with complex mechanical gearboxes. Understanding where, when, and how to add or remove electric power opens a vast design space that has yet to be explored fully. 
 
 ## Approach
 
-This project leverages Geometric Programming using [GPkit](https://gpkit.readthedocs.io/en/latest/) to explore this large design space. Geometric programs (GPs) are convex in log space, and can be solved quickly using “off-the-shelf” solvers. The drivetrain, vehicle, and mission performance models are implemented as GPs and solved using a simultaneous analysis and design (SAND) approach. 
+This project leverages Geometric Programming using [GPkit](https://gpkit.readthedocs.io/en/latest/) to explore this large design space. Geometric programs (GPs) are convex in log space and can be solved quickly using “off-the-shelf” solvers. The drivetrain, vehicle, and mission performance models are implemented as GPs and solved using a simultaneous analysis and design (SAND) approach. 
 
 Discrete hybrid-electric powertrain topologies are defined by combining gearbox and electric machine models such that the optimizer solves for the gear ratios, speeds, and electric machine torques that maximize mission performance. Using epicyclic gearboxes, electric machines can produce variable output speeds. 
 
@@ -40,7 +40,7 @@ General conclusions from this work are as follows:
     - using small amounts of electric power with batteries at short duration peak power conditions reduces peak turbine power demand and improves engine efficiency throughout the flight
     - variable rotor speed enables optimization of the blade loading coefficient, $\left( C_T / \sigma \right)$, as the vehicle weight changes. 
 
-The sizing approaches required for realizing these benefits have important implications on the vehicle performance. The magnitude of the benefits ultimately depend on the mission, objectives, and sizing constraints. 
+The sizing approaches required for realizing these benefits have important implications on vehicle performance. The magnitude of the benefits ultimately depend on the mission, objectives, and constraints. 
 
 
 <div class="row justify-content-sm-center">
