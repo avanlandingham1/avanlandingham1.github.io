@@ -78,42 +78,42 @@
       "publisher": "2025 IEEE Transportation Electrification Conference + Electric Aircraft Technologies Symposium",
       "releaseDate": "2025-06",
       "url": "https://doi.org/10.1109/ITEC63604.2025.11098141",
-      "summary": "brief description"
+      "summary": "Real-time turbomachinery emulation and scaling approach"
     },
     {
       "name": "Hybrid-Electric Powertrain Design for Enhanced Vehicle Performance",
       "publisher": "Vertical Flight Society 81st Annual Forum",
       "releaseDate": "2025-05",
       "url": "https://doi.org/10.4050/F-0081-2025-369",
-      "summary": "brief description"
+      "summary": "Hybrid-electric rotorcraft design space exploration"
     },
     {
       "name": "Optimization of Electrified, Variable Speed Drivetrain Concepts for Enhanced Vehicle Performance",
       "publisher": "Vertical Flight Society 80th Annual Forum",
       "releaseDate": "2024-05",
       "url": "https://doi.org/10.4050/F-0080-2024-1315",
-      "summary": "brief description"
+      "summary": "Multi-mission hybrid-electric rotorcraft optimization framework for single main rotor, compound coax, and tiltrotor configurations"
     },
     {
       "name": "Environmental and Economic Impact of Transport Aircraft Using Sustainable Aviation Fuel or Liquid-Hydrogen as Alternative Fuels",
       "publisher": "The Pennsylvania State University, MS Thesis",
       "releaseDate": "2024-05",
       "url": "https://etda.libraries.psu.edu/catalog/32384avv5448",
-      "summary": "brief description"
+      "summary": "Evaluation of SAF and LH2 as alternative fuels for transport aircraft"
     },
     {
       "name": "Conceptual Design Optimization of Liquid-Hydrogen-Fueled Transport Aircraft for Environmental and Economic Performance",
       "publisher": "AIAA AVIATION 2023 Forum",
       "releaseDate": "2023-06",
       "url": "https://arc.aiaa.org/doi/abs/10.2514/6.2023-3228",
-      "summary": "brief description"
+      "summary": "Transport aircraft design optimization framework for environmental and economic impact of alternative fuels"
     },
     {
       "name": "An Integrated Hybrid-Electric Airplane, Propulsion and Power Sizing Method",
       "publisher": "AIAA SCITECH 2022 Forum",
       "releaseDate": "2022-01",
       "url": "https://doi.org/10.2514/6.2022-1558",
-      "summary": "brief description"
+      "summary": "Hybrid-electric aircraft design framework extended with NPSS"
     }
   ],
   "skills": [
